@@ -1,0 +1,2 @@
+#   ACA ESTARA LA RESPECTIVA ACTIVIDAD DE PARTICIPACION
+## tendra la descomposición y asignación de responsabilidades de los últimos 3 requisitos del caso de estudio de Blackjack. Complete el modelo con los métodos resultantes 
